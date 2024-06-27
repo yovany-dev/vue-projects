@@ -1,8 +1,8 @@
-# Proyectos en Vue.js âœ…
+# Proyectos en Vue.js ğŸğŸ”¥
 
-Hola que tal í±‹, este repositorio contendra un listado de proyectos realizados en Vue.js a medida que vaya avanzando en este framework! í´¥
+Hola que tal ğŸ‘‹, este repositorio contendra un listado de proyectos realizados en Vue.js a medida que vaya avanzando en este framework! âœ…
 
-## Lista de proyectos í³œ
+## Lista de proyectos ğŸ“
 
 |  No.| Proyecto         | CÃ³digo fuente                                                         | Vista en vivo         |
 | :-: | ----------------|----------------------------------------------------------------------|-----------------------------------------------------

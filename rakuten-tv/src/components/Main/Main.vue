@@ -1,7 +1,7 @@
 <template>
-  <main class="pt-20">
+  <main class="mt-[290px]">
     <Head />
-    <section ref="containerMovies" class="pt-16 grid grid-cols-7 gap-x-2 gap-y-24">
+    <section ref="containerMovies" class="grid grid-cols-7 gap-x-2 gap-y-24">
       <Poster v-for="(movie, index) in movies" :key="index" :pathImage="movie.poster_path" />
     </section>
   </main>

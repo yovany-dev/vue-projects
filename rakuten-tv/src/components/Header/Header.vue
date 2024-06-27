@@ -1,5 +1,5 @@
 <template>
-  <header class="py-6 flex justify-between">
+  <header class="py-6 flex justify-between fixed top-0 w-[1400px] bg-[#101010]">
     <Nav />
     <Login />
   </header>

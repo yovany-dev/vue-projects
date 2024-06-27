@@ -1,5 +1,5 @@
 <template>
-  <section class="flex justify-between">
+  <section class="flex justify-between py-[20px] fixed top-[89px] w-[1400px] bg-[#101010]">
     <div class="p-2 flex items-center gap-3 rounded-md hover:bg-[#f0f0f01a] transition-colors">
       <h2 class="text-[34px] font-bold">Todo el catálogo</h2>
       <i class="fa-solid fa-chevron-down text-2xl"></i>

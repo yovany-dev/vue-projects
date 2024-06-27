@@ -1,5 +1,5 @@
 <template>
-  <div class="">
+  <div class="cursor-pointer">
     <img class="w-full h-full" :src="getURL" alt="poster movie">
   </div>
 </template>

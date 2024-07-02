@@ -29,5 +29,12 @@ Hola que tal 👋, este repositorio contendra un listado de proyectos realizados
       <td><a href="https://github.com/yovany-dev/vue-projects/tree/main/rakuten-tv">Ver Código</s></td>
       <td><a href="https://yovany-dev.github.io/vue-projects/rakuten-tv/dist/">Demo</a></td>
     </tr>
+    <tr>
+      <td>03</td>
+      <td>Todo list</td>
+      <td>Típica aplicación de lista de tareas</td>
+      <td><a href="https://github.com/yovany-dev/vue-projects/tree/main/todo-list">Ver Código</s></td>
+      <td><a href="https://yovany-dev.github.io/vue-projects/todo-list/dist/">Demo</a></td>
+    </tr>
   </tbody>
 </table>

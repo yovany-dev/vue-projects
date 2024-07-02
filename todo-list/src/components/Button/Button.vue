@@ -2,6 +2,7 @@
   <button
     class="py-2 px-3 text-sm font-medium rounded-md text-white bg-v-blue"
     v-if="!props.dark"
+    @click="addTodo"
   >
     {{ props.text }}
   </button>
@@ -17,6 +18,7 @@
 
 <script setup>
   const props = defineProps({
+    addTodo: Function,
     text: String,
     dark: Boolean,
   });
